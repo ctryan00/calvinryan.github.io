@@ -6,7 +6,8 @@ const Header = () => (
     <div>
       <div>
         <Link to="/">
-          <h1 className="site-title">CSSG Education Team</h1>
+          
+          <h1 className="site-title">Calvin's Website</h1>
         </Link>
       </div>
     </div>
